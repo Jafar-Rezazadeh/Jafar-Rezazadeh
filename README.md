@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Jafar-Rezazadeh/Jafar-Rezazadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jafar (jafar.rzzd) — a Flutter developer based in Tabriz, Iran with 2–3 years of experience building cross-platform mobile applications.
 
-Here are some ideas to get you started:
+I focus on creating maintainable and scalable apps using clean architecture and best practices. My main areas of expertise include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- State management (Provider, Riverpod, BLoC, GetX)
+- Routing and navigation (including Navigator 2.0 / declarative routing)
+- App architecture and project structure (clean architecture, layered designs)
+- Working with RESTful APIs, networking, and JSON serialization
+- Testing, debugging, and improving app performance
+
+I'm open to collaboration, contributing to interesting projects, and new opportunities. Feel free to explore my repositories to see my work or reach out via GitHub.
+
+---
+
+Thanks for visiting! 👋
