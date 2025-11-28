@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I'm Jafar (jafar.rzzd) — a Flutter developer based in Tabriz, Iran with 2–3 years of experience building cross-platform mobile applications.
+I'm jafar.rezazadeh — a Flutter developer based in Tabriz, Iran with 2–3 years of experience building cross-platform mobile applications.
 
 I focus on creating maintainable and scalable apps using clean architecture and proven best practices. My main areas of expertise include:
 
 - State management and architecture: GetX (state management, dependency injection, and routing)
-- Routing and navigation (including Navigator 2.0 / declarative routing)
+- Routing and navigation
 - App architecture and project structure (clean architecture, layered designs)
 - Working with RESTful APIs, networking, JSON serialization, and WebSocket integrations
 - Platform integration: calling native code with Kotlin and C++ (platform channels / FFI)
-- High-performance UI: CustomPaint / CustomPainters for expensive widgets and fine-grained rendering control
+- High-performance UI: CustomPaint for expensive widgets and fine-grained rendering control
 - Testing-driven development (TDD), with emphasis on unit testing and testable architecture
 - Performance tuning, debugging, and profiling for responsive apps
 
