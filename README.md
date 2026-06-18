@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm jafar.rezazadeh — a Flutter developer based in Tabriz, Iran with 2–3 years of experience building cross-platform mobile applications.
+I'm jafar.rezazadeh — a Flutter developer based in Tabriz, Iran with 2–3 years of experience building cross-platform applications.
 
 I focus on creating maintainable and scalable apps using clean architecture and proven best practices. My main areas of expertise include:
 
