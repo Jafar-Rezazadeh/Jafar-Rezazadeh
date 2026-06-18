@@ -17,6 +17,7 @@ Professional experience highlight:
 - Worked at a company that maintained an HR system; I built a mobile app that integrated with parts of that system via REST APIs and WebSocket connections.
 
 Featured projects
+- IknowMobile(HR) - https://cafebazaar.ir/app/com.iknow.iknowapp.i_know_app
 - waveglow — https://github.com/Jafar-Rezazadeh/waveglow
 - wordpress_companion — https://github.com/Jafar-Rezazadeh/wordpress_companion
 - woocommerce_manager (contributions) — https://github.com/syntax-production-apps/woocommerce_manager
